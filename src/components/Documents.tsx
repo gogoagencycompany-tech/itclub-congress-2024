@@ -1,7 +1,7 @@
 import { FileText, BookOpen } from "lucide-react";
 import { DocumentViewer } from "./DocumentViewer";
 
-export const Documents = () => {
+const Documents = () => {
   return (
     <section className="py-20 px-4 relative overflow-hidden">
       {/* Background gradient */}
@@ -61,3 +61,5 @@ export const Documents = () => {
     </section>
   );
 };
+
+export default Documents;

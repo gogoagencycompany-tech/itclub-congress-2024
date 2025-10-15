@@ -5,7 +5,7 @@ import Achievements from "@/components/Achievements";
 import PastActivities from "@/components/PastActivities";
 import Vision from "@/components/Vision";
 import UpcomingActivities from "@/components/UpcomingActivities";
-import { Documents } from "@/components/Documents";
+import Documents from "@/components/Documents";
 import Leadership from "@/components/Leadership";
 import Footer from "@/components/Footer";
 
